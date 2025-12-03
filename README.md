@@ -1,2 +1,2 @@
-# Testes-Param-tricos
+# Testes Paramétricos
 Testes paramétricos
